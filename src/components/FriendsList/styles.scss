@@ -1,0 +1,16 @@
+.friends-root{
+    margin-top: 3rem;
+}
+
+.emptyset {
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    div {
+        width: 100%;
+        text-align: center;
+        font-size: 14px;
+    }
+}
