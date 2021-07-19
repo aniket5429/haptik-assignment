@@ -1,7 +1,7 @@
 # Haptik AI Tasks: Add friends to list
 
 
-[Live Demo](https://test.com/) here.
+[Live Demo](https://haptiktest.netlify.app/) here.
 
 This react website handles adding adding friends to list
 
@@ -22,13 +22,19 @@ yarn start
 
 ## Components Structure
 
-actions: list of actions to update global state
-components: each component directory should be used module wise with index.js and their own styles.scss
-context: Creating Contexts to be used for state management
-helpers: Custom plain utility functions
-hooks: Custom hooks 
-reducers: Global State Mamagement Reducers
-validations: Validation of forms, data etc
+Actions: list of actions to update global state
+
+Components: each component directory should be used module wise with index.js and their own styles.scss
+
+Context: Creating Contexts to be used for state management
+
+Helpers: Custom plain utility functions
+
+Hooks: Custom hooks 
+
+Reducers: Global State Mamagement Reducers
+
+Validations: Validation of forms, data etc
 
 
 
