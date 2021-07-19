@@ -4,22 +4,6 @@ export const friendsInitialState = {
     data: [
         {id: uuid(), name: 'aniket', favourite: false},
         {id: uuid(), name: 'anand', favourite: true},
-        {id: uuid(), name: 'sherlock', favourite: false},
-        {id: uuid(), name: 'holmes', favourite: false},
-        {id: uuid(), name: 'anna', favourite: false},
-        {id: uuid(), name: 'aniket', favourite: false},
-        {id: uuid(), name: 'anand', favourite: true},
-        {id: uuid(), name: 'sherlock', favourite: false},
-        {id: uuid(), name: 'holmes', favourite: false},
-        {id: uuid(), name: 'anna', favourite: false},
-        {id: uuid(), name: 'aniket', favourite: false},
-        {id: uuid(), name: 'anand', favourite: true},
-        {id: uuid(), name: 'sherlock', favourite: false},
-        {id: uuid(), name: 'holmes', favourite: false},
-        {id: uuid(), name: 'anna', favourite: false},
-        {id: uuid(), name: 'aniket', favourite: false},
-        {id: uuid(), name: 'anand', favourite: true},
-        {id: uuid(), name: 'sherlock', favourite: false},
     ],
 };
 
