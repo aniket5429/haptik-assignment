@@ -35,9 +35,14 @@ const FriendsList = () => {
             })
         };
 
+        let errorMessage = 'No friends to show';
+        if (query.length){
+            errorMessage = 'No friends found according to the search'
+        }
+
         return (
             <div className='emptyset'>
-                <div>You dont have any friends...! Why so lonely ?</div>
+                <div>{errorMessage}</div>
             </div>
         )
     }
